@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "731761071875",
+    "project_id": "kupa-journal",
+    "storage_bucket": "kupa-journal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731761071875:android:73056e7bd5333655a9fb36",
+        "android_client_info": {
+          "package_name": "com.example.diarypro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731761071875-o969pjtl8o0v2jirvoptmtr90a7taes3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATEyAF_td5vzBrjFgDE-tBBzg5xaKCU4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731761071875-o969pjtl8o0v2jirvoptmtr90a7taes3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
